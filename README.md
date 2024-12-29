@@ -1,2 +1,2 @@
-# Schdify
+# Schedify
 Scheduling Your Daily Task
